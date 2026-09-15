@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/rants
+rants.so
+rants.dylib
+rants.dll
+librants.a
+rants.a
+rants.lib
+rants-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
