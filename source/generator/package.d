@@ -1,6 +1,6 @@
 module generator;
 
-import generator.presets;
+public import generator.presets;
 
 string generate() {
   auto intro   = random_option(cast(string[]) intros);
